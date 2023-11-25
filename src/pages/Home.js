@@ -11,7 +11,7 @@ function Home() {
   return (
     <div className='home'>
       <div className='about'>
-        <h3>I'm<div className='name'>Sai HarshaVardhan Reddy Pallerla</div></h3>
+        <h3>I'm<div className='name'>Saii HarshaVardhan Reddy Pallerla</div></h3>
         <div className='prompt'>
           <p className='info'>A Software Developer,passionate programmer with a curious mind who enjoys solving complex and challenging real-world problems.</p>
           <br/>
